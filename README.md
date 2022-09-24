@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View solution page here](https://www.frontendmentor.io/solutions/...)
-- Live Site URL: [View live site here](https://damola-147.github.io/.../)
+- Live Site URL: [View live site here](https://damola-147.github.io/Blogr-Landing-Page-Main/)
 
 ## My process
 
