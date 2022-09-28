@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View solution page here](https://www.frontendmentor.io/solutions/...)
+- Solution URL: [View solution page here](https://www.frontendmentor.io/solutions/responsive-blogr-landing-page-RMtOsYbnPK)
 - Live Site URL: [View live site here](https://damola-147.github.io/Blogr-Landing-Page-Main/)
 
 ## My process
